@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kittychiu-lightgrey.svg)](https://github.com/kittychiu)
 [![Twitter](https://img.shields.io/badge/Twitter-kittychiuau-blue.svg)](https://twitter.com/kittychiuau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kittychiu-blue.svg)](https://www.linkedin.com/in/kittychiu/)
-[![Bookshelf](https://img.shields.io/badge/Bookshelf-kittybookcase-yellow.svg)](https://www.goodreads.com/kittybookcase)
+[![Bookshelf](https://img.shields.io/badge/Bookshelf-kittychiu-yellow.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Badges-kittychiu-orange.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
 
