@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Recent Activities
 1. [DevOps Lab on YouTube | Dojo Series: Customers & Trust](https://youtu.be/6VhtozP3K0A)
 2. [Dev Blogs | DevOps Dojo - Customers & Trust](https://aka.ms/DevOpsLab/Dojo/Customers)
