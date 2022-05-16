@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Recent Activities
+1. ![DevOps Lab | Dojo Series: Customers & Trust](https://youtu.be/6VhtozP3K0A)
+2. ![Dev Blogs | DevOps Dojo - Customers & Trust](https://aka.ms/DevOpsLab/Dojo/Customers)
+
+
 <!--
 **KittyChiu/kittychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
