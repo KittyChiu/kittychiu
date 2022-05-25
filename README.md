@@ -1,8 +1,7 @@
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-kittychiu-lightgrey.svg)](https://github.com/kittychiu)
-[![Twitter](https://img.shields.io/badge/Twitter-kittychiuau-1d9bf0.svg)](https://twitter.com/kittychiuau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kittychiu-0077b5.svg)](https://www.linkedin.com/in/kittychiu/)
+[![Twitter](https://img.shields.io/badge/Twitter-kittychiuau-1d9bf0.svg)](https://twitter.com/kittychiuau)
 [![Bookshelf](https://img.shields.io/badge/Bookshelf-kittychiu-brown.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Badges-kittychiu-orange.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
