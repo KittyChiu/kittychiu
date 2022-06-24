@@ -5,13 +5,13 @@
 [![Bookshelf](https://img.shields.io/badge/Bookshelf-kittychiu-brown.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Badges-kittychiu-orange.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
+<img src="https://octodex.github.com/images/femalecodertocat.png" alt="She Architect" title="She Architect" width="40%"/>
+
 
 ## In The Public
 
 1. [DevOps Lab on YouTube | Dojo Series: Customers & Trust](https://youtu.be/6VhtozP3K0A)
 2. [Dev Blogs | DevOps Dojo - Customers & Trust](https://aka.ms/DevOpsLab/Dojo/Customers)
-
-
 
 
 
