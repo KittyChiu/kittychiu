@@ -1,8 +1,8 @@
 # About Me
 
-[![LinkedIn](https://img.shields.io/badge/My-Bio-0077b5.svg)](https://www.linkedin.com/in/kittychiu/)
+[![LinkedIn](https://img.shields.io/badge/My-Resume-0077b5.svg)](https://www.linkedin.com/in/kittychiu/)
 [![Twitter](https://img.shields.io/badge/Random-Thoughts-olive.svg)](https://twitter.com/kittychiuau)
-[![Bookshelf](https://img.shields.io/badge/Current-Learnings-beige.svg)](https://www.goodreads.com/kittychiu)
+[![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Some-Badges-maroon.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
 <img src="https://octodex.github.com/images/femalecodertocat.png" alt="She Architect" title="She Architect" width="40%"/>
