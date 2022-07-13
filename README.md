@@ -5,7 +5,12 @@
 [![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Some-Badges-maroon.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
-<img src="https://octodex.github.com/images/femalecodertocat.png" alt="She Architect" title="She Architect" width="40%"/>
+<a href="https://www.paypal.com/paypalme/kittychiu/10AUD" target="_blank"><img src="https://octodex.github.com/images/femalecodertocat.png" alt="She Architect" title="She Architect" width="40%"/></a>
+
+#### Daily Standup
+
+- I grind my :coffee: with Hario Ceramic Coffee Mill Skerton
+- I brew my :coffee: with Bialetti Brikka
 
 
 ## In The Public
