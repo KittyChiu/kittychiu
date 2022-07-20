@@ -7,7 +7,8 @@
 
 <a href="https://www.paypal.com/paypalme/kittychiu/10AUD" target="_blank"><img src="https://octodex.github.com/images/femalecodertocat.png" alt="She Architect" title="Buy Kitty A Coffee" width="40%"/></a>
 
-#### Daily Standup
+
+## Daily Standup
 
 - I grind my :coffee: with Hario Ceramic Coffee Mill Skerton
 - I brew my :coffee: with Bialetti Brikka
