@@ -5,8 +5,10 @@
 [![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg)](https://www.goodreads.com/kittychiu)
 [![Badges](https://img.shields.io/badge/Some-Badges-maroon.svg)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
-<a href="https://kittychiu.github.io" target="_blank"><img src="https://octodex.github.com/images/femalecodertocat.png" alt="Female Architect" title="Alma Mater" width="40%"/></a>
-
+<a href="https://kittychiu.github.io" target="_blank"><img src="femalecodertocat_asian.png" alt="Female Architect" title="Alma Mater" width="40%"/></a>
+<!--  
+https://octodex.github.com/images/femalecodertocat.png
+-->
 
 ## Daily Standup
 
