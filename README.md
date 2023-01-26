@@ -12,7 +12,7 @@ https://octodex.github.com/images/femalecodertocat.png
 
 ## Daily Standup
 
-- I grind my :coffee: with Hario Ceramic Coffee Mill Skerton
+- I grind my :coffee: with Timemore Chestnut C2
 - I brew my :coffee: with Bialetti Brikka
 
 
