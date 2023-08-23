@@ -22,5 +22,6 @@ https://octodex.github.com/images/femalecodertocat.png
 2. [DevOps Dojo - Customers & Trust | Dev Blogs](https://aka.ms/DevOpsLab/Dojo/Customers)
 3. [Innersource Case Study | DevOps Dojo Community of Practices](https://innersourcecommons.org/stories/microsoft/)
 
-## Pet Projects in OSS
-- [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics)
+## Hobbies in OSS
+- [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![GitHub Repo stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink)
+
