@@ -1,9 +1,9 @@
  # About Me
 
 [![LinkedIn](https://img.shields.io/badge/My-Resume-0077b5.svg&style=flat-square)](https://www.linkedin.com/in/kittychiu/)
-[![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg&style=flat-square)](https://www.goodreads.com/kittychiu)
-[![Blogs](https://img.shields.io/badge/Synthesized-Notes-olive.svg&style=flat-square)](https://kittychiu.github.io/)
-[![Badges](https://img.shields.io/badge/Padawan-Badges-maroon.svg&style=flat-square)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
+[![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg?style=flat-square)](https://www.goodreads.com/kittychiu)
+[![Blogs](https://img.shields.io/badge/Synthesized-Notes-olive.svg?style=flat-square)](https://kittychiu.github.io/)
+[![Badges](https://img.shields.io/badge/Padawan-Badges-maroon.svg?style=flat-square)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 
 <a href="https://kittychiu.github.io" target="_blank"><img src="femalecodertocat_asian.png" alt="Female Architect" title="Alma Mater" width="40%"/></a>
 <!--  
