@@ -16,8 +16,10 @@ jobs:
       - name: kittychiu.github.io
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kittychiu.github.io/feed.xml"
+          feed_list: 'https://kittychiu.github.io/feed.xml'
           max_post_count: 3
+          date_format: 'mmm d'
+          template: '<li><a href="$url">$title</a> <i>$date</i></li>'
           committer_username: "kittychiu[bot]"
-          committer_email: "42864823+KittyChiu@users.noreply.github.com"
-          commit_message: "[auto] Updated README blog posts list"
+          committer_email: '42864823+KittyChiu@users.noreply.github.com'
+          commit_message: '[auto] Updated README blog posts list'
