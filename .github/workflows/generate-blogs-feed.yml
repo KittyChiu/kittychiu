@@ -21,4 +21,4 @@ jobs:
           date_format: "mmm d, yyyy"
           committer_username: "kittychiu[bot]"
           committer_email: "42864823+KittyChiu@users.noreply.github.com"
-          commit_message: "[auto] Updated README blog posts list
+          commit_message: "[auto] Updated README blog posts list"
