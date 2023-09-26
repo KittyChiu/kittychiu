@@ -16,6 +16,11 @@ https://octodex.github.com/images/femalecodertocat.png
 - I grind my :coffee: with Timemore Chestnut C2
 - I brew my :coffee: with Bialetti Brikka
 
+## Recent Distilled Notes
+<ul>
+<!-- BLOG-POST-LIST:START --><li><a href="/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a> <i>Aug 16</i></li><li><a href="/posts/managing-actions-consumption/">Managing Actions consumption and cost</a> <i>May 10</i></li><li><a href="/posts/efficient-sast-codeql/">Efficient SAST with CodeQL</a> <i>Apr 5</i></li><!-- BLOG-POST-LIST:END -->
+</ul>
+
 ## Retrospectives In The Public
 
 1. [Dojo YouTube Series: Customers & Trust | DevOps Lab on YouTube](https://youtu.be/6VhtozP3K0A)
@@ -25,5 +30,3 @@ https://octodex.github.com/images/femalecodertocat.png
 ## OSS Hobbies
 - [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![Stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/workflow-metrics?color=pink&style=social)
 
-## Recent Distilled Notes
-<!-- BLOG-POST-LIST:START --><li><a href="/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a> <i>Aug 16</i></li><li><a href="/posts/managing-actions-consumption/">Managing Actions consumption and cost</a> <i>May 10</i></li><li><a href="/posts/efficient-sast-codeql/">Efficient SAST with CodeQL</a> <i>Apr 5</i></li><!-- BLOG-POST-LIST:END -->
