@@ -4,7 +4,7 @@
 [![Bookshelf](https://img.shields.io/badge/Current-Readings-beige.svg?style=flat-square)](https://www.goodreads.com/review/list/78391748-kitty-chiu?shelf=currently-reading&sort=date_updated)
 [![Blogs](https://img.shields.io/badge/Distilled-Notes-olive.svg?style=flat-square)](https://kittychiu.github.io/)
 [![Badges](https://img.shields.io/badge/Padawan-Badges-maroon.svg?style=flat-square)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
-![Profile Views](https://komarev.com/ghpvc/?username=kittychiu&style=flat-square&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=kittychiu&style=flat-square&color=ff69b4&label=Views&base=100)
 
 <a href="https://kittychiu.github.io" target="_blank"><img src="femalecodertocat_asian.png" alt="Female Architect" title="Alma Mater" width="40%"/></a>
 <!--  
