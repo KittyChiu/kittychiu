@@ -16,7 +16,6 @@ https://octodex.github.com/images/femalecodertocat.png
 - I grind my :coffee: with Timemore Chestnut C2
 - I brew my :coffee: with Bialetti Brikka
 
-
 ## Retrospectives In The Public
 
 1. [Dojo YouTube Series: Customers & Trust | DevOps Lab on YouTube](https://youtu.be/6VhtozP3K0A)
@@ -26,3 +25,6 @@ https://octodex.github.com/images/femalecodertocat.png
 ## OSS Hobbies
 - [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![Stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/workflow-metrics?color=pink&style=social)
 
+## Distilled Notes
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
