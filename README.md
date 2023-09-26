@@ -25,7 +25,7 @@ https://octodex.github.com/images/femalecodertocat.png
 ## OSS Hobbies
 - [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![Stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/workflow-metrics?color=pink&style=social)
 
-## Distilled Notes
+## Recent Distilled Notes
 <!-- BLOG-POST-LIST:START -->
 - [First product using GitHub Copilot](/posts/first-project-using-github-copilot/)
 - [Managing Actions consumption and cost](/posts/managing-actions-consumption/)
