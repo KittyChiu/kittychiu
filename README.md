@@ -30,6 +30,4 @@ https://octodex.github.com/images/femalecodertocat.png
 - [First product using GitHub Copilot](/posts/first-project-using-github-copilot/)
 - [Managing Actions consumption and cost](/posts/managing-actions-consumption/)
 - [Efficient SAST with CodeQL](/posts/efficient-sast-codeql/)
-- [Compute Capacity Planning for CICD](/posts/cicd-compute-capacity-planning/)
-- [Three Lines of Defence](/posts/three-lines-of-defence/)
 <!-- BLOG-POST-LIST:END -->
