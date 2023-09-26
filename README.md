@@ -26,8 +26,4 @@ https://octodex.github.com/images/femalecodertocat.png
 - [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![Stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/workflow-metrics?color=pink&style=social)
 
 ## Recent Distilled Notes
-<!-- BLOG-POST-LIST:START -->
-- [First product using GitHub Copilot](/posts/first-project-using-github-copilot/)
-- [Managing Actions consumption and cost](/posts/managing-actions-consumption/)
-- [Efficient SAST with CodeQL](/posts/efficient-sast-codeql/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a> <i>Aug 16</i></li><li><a href="/posts/managing-actions-consumption/">Managing Actions consumption and cost</a> <i>May 10</i></li><li><a href="/posts/efficient-sast-codeql/">Efficient SAST with CodeQL</a> <i>Apr 5</i></li><!-- BLOG-POST-LIST:END -->
