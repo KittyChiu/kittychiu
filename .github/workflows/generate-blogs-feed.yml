@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: 'https://kittychiu.github.io/feed.xml'
           max_post_count: 3
-          date_format: 'mmm yyyy'
+          date_format: 'mmmm yyyy'
           template: '<li><a href="$url">$title</a>  <i>$date</i></li>'
           committer_username: "kittychiu[bot]"
           committer_email: '42864823+KittyChiu@users.noreply.github.com'
