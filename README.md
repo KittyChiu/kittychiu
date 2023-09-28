@@ -18,7 +18,7 @@ https://octodex.github.com/images/femalecodertocat.png
 
 ## Recent Distilled Notes
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a>  <i>Aug 16</i></li><li><a href="/posts/managing-actions-consumption/">Managing Actions consumption and cost</a>  <i>May 10</i></li><li><a href="/posts/efficient-sast-codeql/">Efficient SAST with CodeQL</a>  <i>Apr 05</i></li><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a>  <i>August 2023</i></li><li><a href="/posts/managing-actions-consumption/">Managing Actions consumption and cost</a>  <i>May 2023</i></li><li><a href="/posts/efficient-sast-codeql/">Efficient SAST with CodeQL</a>  <i>April 2023</i></li><!-- BLOG-POST-LIST:END -->
 </ul>
 
 ## Retrospectives In The Public
