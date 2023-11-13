@@ -24,7 +24,7 @@ jobs:
           committer_email: '42864823+KittyChiu@users.noreply.github.com'
           commit_message: '[auto] Updated README blog posts list'
       - name: Update readings list
-        uses: zwacky/goodreads-profile-workflow@v1
+        uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: '78391748'
           shelf: 'currently-reading'
