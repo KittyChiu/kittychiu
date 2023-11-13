@@ -7,13 +7,13 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update
+  update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: kittychiu.github.io
+      - name: Update blogs list
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://kittychiu.github.io/feed.xml'
@@ -23,3 +23,8 @@ jobs:
           committer_username: "kittychiu[bot]"
           committer_email: '42864823+KittyChiu@users.noreply.github.com'
           commit_message: '[auto] Updated README blog posts list'
+      - name: Update readings list
+        uses: zwacky/goodreads-profile-workflow@v1
+        with:
+          goodreads_user_id: "78391748"
+          shelf: "currently-reading"
