@@ -16,7 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://kittychiu.github.io/feed.xml'
-          max_post_count: 3
+          max_post_count: 4
           date_format: 'mmmm yyyy'
           template: '<li><a href="$url">$title</a>  <i>$date</i></li>'
           committer_username: "kittychiu[bot]"
@@ -27,6 +27,5 @@ jobs:
         with:
           goodreads_user_id: '78391748'
           shelf: 'currently-reading'
-          max_books_count: '3'
+          max_books_count: '4'
           template: '<li><a href="$url">$title</a>  <i>by $author</i></li>'
-          sort_by_fields: '<user_date_added'
