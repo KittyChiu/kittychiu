@@ -14,6 +14,9 @@ https://octodex.github.com/images/femalecodertocat.png
 ## Currently Reading
 <ul>
 <!-- GOODREADS-LIST:START -->
+<li><a href="https://www.goodreads.com/review/show/2315905161?utm_medium=api&utm_source=rss">Perfecting Training</a>  <i>by Witness Lee</i></li>
+<li><a href="https://www.goodreads.com/review/show/2315906293?utm_medium=api&utm_source=rss">Prophesying in the Church Meetings for the Organic Building Up of the Church as the Body of Christ (Outlines)</a>  <i>by Witness Lee</i></li>
+<li><a href="https://www.goodreads.com/review/show/2315552981?utm_medium=api&utm_source=rss">The Tree of Life</a>  <i>by Witness Lee</i></li>
 <!-- GOODREADS-LIST:END -->
 </ul>
 
