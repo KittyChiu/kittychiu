@@ -12,8 +12,10 @@ https://octodex.github.com/images/femalecodertocat.png
 -->
 
 ## Currently Reading
+<ul>
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+</ul>
 
 ## Recent Distilled Notes
 <ul>
