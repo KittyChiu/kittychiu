@@ -26,5 +26,8 @@ jobs:
       - name: Update readings list
         uses: zwacky/goodreads-profile-workflow@v1
         with:
-          goodreads_user_id: "78391748"
-          shelf: "currently-reading"
+          goodreads_user_id: '78391748'
+          shelf: 'currently-reading'
+          max_books_count: '3'
+          template: '<li><a href="$url">$title</a>  <i>by $author</i></li>'
+          sort_by_fields: '>user_read_at'
