@@ -11,10 +11,9 @@
 https://octodex.github.com/images/femalecodertocat.png
 -->
 
-## Daily Standup
-
-- I grind my :coffee: with Timemore Chestnut C2
-- I brew my :coffee: with Bialetti Brikka
+## Currently Reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ## Recent Distilled Notes
 <ul>
