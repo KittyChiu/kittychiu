@@ -35,4 +35,6 @@ https://octodex.github.com/images/femalecodertocat.png
 ## OSS Hobbies
 
 - [Workflow Metrics](https://github.com/KittyChiu/workflow-metrics) ![Stars](https://img.shields.io/github/stars/kittychiu/workflow-metrics?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/workflow-metrics?color=pink&style=social)
+- [Alerts to OWASP Top 10](https://github.com/KittyChiu/alerts-to-owasp10) ![Stars](https://img.shields.io/github/stars/kittychiu/alerts-to-owasp10?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/alerts-to-owasp10?color=pink&style=social)
+
 
