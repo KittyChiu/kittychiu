@@ -6,7 +6,7 @@
 [![Badges](https://img.shields.io/badge/Padawan-Badges-maroon.svg?style=flat-square)](https://www.credly.com/users/kittychiu/badges?sort=-state_updated_at)
 ![Profile Views](https://komarev.com/ghpvc/?username=kittychiu&style=flat-square&color=ff69b4&label=Views)
 
-[![GitHub Contributions Stats](https://github-readme-streak-stats.herokuapp.com?user=kittychiu&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kittychiu&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## Recent Distilled Notes
 <ul>
