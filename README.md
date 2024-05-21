@@ -16,10 +16,10 @@
 ## Currently Reading
 <ul>
 <!-- GOODREADS-LIST:START -->
+<li><a href="https://www.goodreads.com/review/show/6518507174?utm_medium=api&utm_source=rss">The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change</a>  <i>by Tanya Reilly</i></li>
+<li><a href="https://www.goodreads.com/review/show/6518506296?utm_medium=api&utm_source=rss">Sooner Safer Happier: Antipatterns and Patterns for Business Agility</a>  <i>by Jonathan  Smart</i></li>
+<li><a href="https://www.goodreads.com/review/show/6518506130?utm_medium=api&utm_source=rss">Flow Engineering: From Value Stream Mapping to Effective Action</a>  <i>by Steve Pereira</i></li>
 <li><a href="https://www.goodreads.com/review/show/5284161505?utm_medium=api&utm_source=rss">Fundamentals of Software Architecture: An Engineering Approach</a>  <i>by Mark   Richards</i></li>
-<li><a href="https://www.goodreads.com/review/show/4527929240?utm_medium=api&utm_source=rss">Cynefin - Weaving Sense-Making into the Fabric of Our World</a>  <i>by Dave Snowden</i></li>
-<li><a href="https://www.goodreads.com/review/show/3615013844?utm_medium=api&utm_source=rss">The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler</a>  <i>by Mark  Schwartz</i></li>
-<li><a href="https://www.goodreads.com/review/show/3970657753?utm_medium=api&utm_source=rss">Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)</a>  <i>by Michael T. Nygard</i></li>
 <!-- GOODREADS-LIST:END -->
 </ul>
 
