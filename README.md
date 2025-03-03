@@ -28,6 +28,7 @@
 - [Alerts to OWASP Top 10](https://github.com/KittyChiu/alerts-to-owasp10) ![Stars](https://img.shields.io/github/stars/kittychiu/alerts-to-owasp10?color=pink&style=social) ![Forks](https://img.shields.io/github/forks/kittychiu/alerts-to-owasp10?color=pink&style=social)
 
 ## Retrospectives In The Public
+- [GitHub Copilot Fridays | From hype to productivity: Copilot Metrics that matter (Part 1)](https://youtu.be/NWkp5XTeWIQ)
 - [How to measure the effectiveness of GitHub Copilot | Universe'24](https://youtu.be/QKkhS-yUF_g)
 - [Dojo YouTube Series: Customers & Trust | DevOps Lab on YouTube](https://youtu.be/6VhtozP3K0A)
 - [DevOps Dojo - Customers & Trust | Dev Blogs](https://aka.ms/DevOpsLab/Dojo/Customers)
