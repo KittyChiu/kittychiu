@@ -7,7 +7,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme:
+  update-strava-heatmap:
     runs-on: ubuntu-latest
     env: 
       STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
@@ -25,7 +25,7 @@ jobs:
           repository: leesamuel423/StravaGraph
           path: strava
 
-      - name: Update blogs list
+      - name: Generate heatmap
         run: |
 
           cd strava
@@ -34,10 +34,11 @@ jobs:
 
       - name: Commit and push _posts folder
         run: |
+          cd main 
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          cd main
           git add heatmap.svg
           git commit -m 'doc: update heatmap'
           git push origin HEAD
