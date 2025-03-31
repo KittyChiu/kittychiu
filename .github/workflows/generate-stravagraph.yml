@@ -1,0 +1,44 @@
+name: Update README
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs once a day
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env: 
+      STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+      STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+      STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          repository: leesamuel423/StravaGraph
+          path: strava
+
+      - name: Update blogs list
+        run: |
+
+          cd strava
+          go build -o strava-heatmap ./cmd/strava-heatmap
+          ./strava-heatmap -generate > ../main/heatmap.svg
+
+      - name: Commit and push _posts folder
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          cd main
+          git add heatmap.svg
+          git commit -m 'doc: update heatmap'
+          git push origin HEAD
+
