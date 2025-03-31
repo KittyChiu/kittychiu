@@ -33,3 +33,7 @@
 - [Dojo YouTube Series: Customers & Trust | DevOps Lab on YouTube](https://youtu.be/6VhtozP3K0A)
 - [DevOps Dojo - Customers & Trust | Dev Blogs](https://aka.ms/DevOpsLab/Dojo/Customers)
 - [Innersource Case Study | DevOps Dojo Community of Practices](https://innersourcecommons.org/stories/microsoft/)
+
+## Training & Running
+
+![Training heatmap](strava-heatmap.svg)
