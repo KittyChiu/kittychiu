@@ -1,4 +1,4 @@
-name: Update README
+name: Update Heatmap
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs once a day
