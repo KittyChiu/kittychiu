@@ -10,7 +10,7 @@
 
 ## Recent Distilled Notes
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://www.kittychiu.com/posts/your-pace-reflections-running-ai-empowerment/">Your Pace. Reflections on Trail Running, and AI Empowerment</a>  <i>January 2025</i></li><li><a href="https://www.kittychiu.com/posts/quote/">Quote of the day</a>  <i>September 2024</i></li><li><a href="https://www.kittychiu.com/posts/large-repo-migration/">Decision trees for large repo migration to Git</a>  <i>May 2024</i></li><li><a href="https://www.kittychiu.com/posts/first-project-using-github-copilot/">First product using GitHub Copilot</a>  <i>August 2023</i></li><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://www.kittychiu.com/posts/git-clean-up/">Field notes on Git Maintenance</a>  <i>April 2025</i></li><li><a href="https://www.kittychiu.com/posts/your-pace-reflections-running-ai-empowerment/">Your Pace. Reflections on Trail Running, and AI Empowerment</a>  <i>January 2025</i></li><li><a href="https://www.kittychiu.com/posts/quote/">Quote of the day</a>  <i>September 2024</i></li><li><a href="https://www.kittychiu.com/posts/large-repo-migration/">Decision trees for large repo migration to Git</a>  <i>May 2024</i></li><!-- BLOG-POST-LIST:END -->
 </ul>
 
 ## Currently Reading
