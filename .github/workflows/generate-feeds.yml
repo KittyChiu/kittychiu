@@ -10,8 +10,18 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate GitHub App token
+        id: generate-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+
       - name: Update blogs list
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -22,6 +32,7 @@ jobs:
           committer_username: "kittychiu[bot]"
           committer_email: '42864823+KittyChiu@users.noreply.github.com'
           commit_message: '[auto] doc: Updated README blog posts list'
+
       - name: Update readings list
         uses: zwacky/goodreads-profile-workflow@main
         with:
