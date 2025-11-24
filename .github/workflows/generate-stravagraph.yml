@@ -22,14 +22,14 @@ jobs:
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           path: main
           token: ${{ steps.generate-token.outputs.token }}
 
 
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           repository: leesamuel423/StravaGraph
           path: strava
